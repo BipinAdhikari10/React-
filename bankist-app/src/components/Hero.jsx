@@ -7,7 +7,8 @@ const Hero = () => {
       <div className="container hero-section">
         <div className="hero-header">
           <h1 className="hero-heading">
-            When banking meets <br /> minimalist
+            When <span className="highlight">banking</span> meets <br />{" "}
+            <span className="highlight"> minimalist</span>
           </h1>
           <p className="hero-para">
             A simpler banking experience for a simpler life.

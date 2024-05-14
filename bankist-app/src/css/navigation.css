@@ -23,7 +23,7 @@
 .btn-account {
   background-color: var(--color-primary);
   color: #222;
-  padding: 1rem 4rem !important;
+  padding: 1.3rem 4rem !important;
 }
 .btn-account:hover {
   background-color: var(--color-primary-darker);
