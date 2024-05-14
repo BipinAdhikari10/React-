@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
 }
 .navigation img {
   height: 4.5rem;
@@ -23,7 +23,7 @@
 .btn-account {
   background-color: var(--color-primary);
   color: #222;
-  padding: 1.5rem 4rem !important;
+  padding: 1rem 4rem !important;
 }
 .btn-account:hover {
   background-color: var(--color-primary-darker);
