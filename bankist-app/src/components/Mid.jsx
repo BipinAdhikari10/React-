@@ -1,5 +1,5 @@
 import "../css/./mid.css";
-
+import midImage from "../assets/images/digital.jpg";
 const Mid = () => {
   return (
     <>
@@ -12,7 +12,7 @@ const Mid = () => {
         </div>
         <div className="container middle-section-wrapper">
           <div className="middle-image">
-            <img src="../assets/images/digital.jpg" alt="digital image" />
+            <img className="hero-image" src={midImage} alt="digital image" />
           </div>
           <div></div>
         </div>
