@@ -4,7 +4,7 @@ import { CiDesktop } from "react-icons/ci";
 const Mid = () => {
   return (
     <>
-      <div className="middle-section">
+      <div className="container middle-section">
         <div className="middle-header">
           <p className="text-wrapper features">features</p>
           <h2 className="section-header">
@@ -13,7 +13,7 @@ const Mid = () => {
         </div>
         <div className="container middle-section-wrapper">
           <div className="middle-image">
-            <img className="hero-image" src={midImage} alt="digital image" />
+            <img className="mid-image" src={midImage} alt="digital image" />
           </div>
           <div className="middle-section-wrapper-container">
             <div className="desktop-icon">
